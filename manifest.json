@@ -1,0 +1,12 @@
+{
+    "name":"my chrome extension",
+    "version": "1.0.0",
+    "description" : "Extension for converting the currency ",
+    "manifest_version" :3,
+    "author" :"Dishank Kamat",
+    "action" : {
+        "default_popup":"demo.html",
+        "default_title" : "Chrome EXtension for converting the currency value"
+    }
+
+}
